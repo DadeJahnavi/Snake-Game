@@ -1,0 +1,38 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #202020;
+  color: #fff;
+  margin: 0;
+}
+
+.game-container {
+  text-align: center;
+}
+
+canvas {
+  background-color: #111;
+  border: 2px solid #555;
+}
+
+.info {
+  margin-top: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
