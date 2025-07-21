@@ -36,3 +36,15 @@ button {
 button:hover {
   background-color: #45a049;
 }
+
+.credit-badge {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background-color: rgba(255, 255, 255, 0.8); /* optional */
+  padding: 6px 12px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  z-index: 999;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
