@@ -35,22 +35,10 @@
 2. Open `index.html` in your browser.
 3. Hit **Start**, use **arrow keys**, and play!
 
-## 🧪 Website Name Suggestions
+## 🌐 Live Demo
 
-Here are a few light and modern ideas:
-
-- **SnakeSnack**
-- **PixelChomp**
-- **AppleRush**
-- **Glide & Bite**
-- **GoldenChase**
-- **LoopBite**
-- **TailQuest**
-- **BittenPixel**
-
----
+🔗 [Try it on Netlify]()
 
 > "Patience and precision — that’s the true chase." 🌀
-
 🛡 Coded with clarity by **Jahnavi**  
 Feel free to remix or fork — with credit!
